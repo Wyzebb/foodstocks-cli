@@ -3,6 +3,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/wyzebb/foodstocks-cli)
 ![GitHub Release](https://img.shields.io/github/v/release/wyzebb/foodstocks-cli)
 
+# DO NOT USE THIS YET - IT IS STILL IN TESTING AND THE README IS INCOMPLETE
 
 # Food Stocks Terminal Application
 
