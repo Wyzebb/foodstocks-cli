@@ -1,0 +1,25 @@
+{
+    "name": "foodstocks-cli",
+    "version": "1.0.0",
+    "main": "index.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Wyzebb",
+    "license": "MPL-2.0",
+    "description": "A simple Node.js terminal app to track stock of food items and their expiry dates",
+    "devDependencies": {
+        "@types/node": "^24.1.0",
+        "prisma": "^6.12.0",
+        "ts-node": "^10.9.2",
+        "tsx": "^4.19.2",
+        "typescript": "^5.8.3"
+    },
+    "dependencies": {
+        "@prisma/client": "^6.12.0",
+        "@types/readline-sync": "^1.4.8",
+        "bcryptjs": "^3.0.2",
+        "dotenv": "^17.2.0",
+        "readline-sync": "^1.4.10"
+    }
+}
